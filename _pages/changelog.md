@@ -11,7 +11,6 @@ The need for mental health assistance is expanding with nearly 1 in 5 adults in 
 This is where MindfulMagic comes into play. 
 
 MindfulMagic is an app that is ready to assist you in any mood. Whether you are sad, happy, or just in a mediocre mood you can hop onto your app and have access to a wide array of tools.
-
 # Let the stress evaporate like magic...
 
 ## Functionalities
