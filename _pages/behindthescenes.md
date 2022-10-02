@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Privacy Policy
+title: Behind the Scenes
 include_in_header: false
 ---
 
