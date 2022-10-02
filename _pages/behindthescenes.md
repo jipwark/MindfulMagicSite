@@ -8,6 +8,6 @@ include_in_header: false
 
 ## Behind the Scenes
 
-![Alt text](/MindfulMagicSite/assets/_G9A3625.jpeg "Optional title")
+!(/MindfulMagicSite/assets/_G9A3625.jpeg)
 
 <br>
